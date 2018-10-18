@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1539058888 source:/media/susanto/DATA/enkripsi hill chiper/main.c
+	"pustaka.h"
+
+1539176980 "
+
+1538901563 source:/media/susanto/DATA/enkripsi hill chiper/aaa.c
+	<stdio.h>
+	<math.h>
+
+1539156146 
+
+1538905362 /media/susanto/DATA/enkripsi hill chiper/pustaka.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1539056499 source:/media/susanto/DATA/enkripsi hill chiper/pustaka.c
+	"pustaka.h"
+
+1539067714 source:f:\enkripsi hill chiper\main.c
+	"pustaka.h"
+
+1539067378 f:\enkripsi hill chiper\pustaka.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1539067686 source:f:\enkripsi hill chiper\pustaka.c
+	"pustaka.h"
+
+1539177026 source:e:\enkripsi hill chiper\main.c
+	"pustaka.h"
+
+1539156146 e:\enkripsi hill chiper\pustaka.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1539176980 source:e:\enkripsi hill chiper\pustaka.c
+	"pustaka.h"
+
+1539218220 source:/media/susanto/DATA/enkripsi hill chiper/main.c
+	"pustaka.h"
+
+1539218164 /media/susanto/DATA/enkripsi hill chiper/pustaka.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1539218928 source:/media/susanto/DATA/enkripsi hill chiper/pustaka.c
+	"pustaka.h"
+
+1539189621 source:/media/susanto/DATA/enkripsi hill chiper/matrik3.c
+
+1539417462 source:/media/susanto/DATA/enkripsi hill chiper (copy 1)/main.c
+	"pustaka.h"
+
+1539417511 /media/susanto/DATA/enkripsi hill chiper (copy 1)/pustaka.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1539189621 source:/media/susanto/DATA/enkripsi hill chiper (copy 1)/matrik3.c
+
+1539417216 source:/media/susanto/DATA/enkripsi hill chiper (copy 1)/pustaka.c
+	"pustaka.h"
+
+1539189621 source:/media/susanto/DATA/Hill chipper v1.0/matrik3.c
+
+1539485490 source:/media/susanto/DATA/Hill chipper v1.0/pustaka.c
+	"pustaka.h"
+
+1539482968 /media/susanto/DATA/Hill chipper v1.0/pustaka.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1539485520 source:/media/susanto/DATA/Hill chipper v1.0/main.c
+	"pustaka.h"
+
+1539486616 source:/home/susanto/Downloads/Compressed/hill-cipher-c-master/main.c
+	"pustaka.h"
+
+1539486616 /home/susanto/Downloads/Compressed/hill-cipher-c-master/pustaka.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1539486616 source:/home/susanto/Downloads/Compressed/hill-cipher-c-master/matrik3.c
+
+1539486616 source:/home/susanto/Downloads/Compressed/hill-cipher-c-master/pustaka.c
+	"pustaka.h"
+
+1539823930 source:/media/susanto/DATA/hill-cipher-c-master/main.c
+	"pustaka.h"
+
+1539486616 /media/susanto/DATA/hill-cipher-c-master/pustaka.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1539486616 source:/media/susanto/DATA/hill-cipher-c-master/matrik3.c
+
+1539824087 source:/media/susanto/DATA/hill-cipher-c-master/pustaka.c
+	"pustaka.h"
+
